@@ -18,14 +18,14 @@ Stockeame busca ofrecer una herramienta para centralizar la información de los 
 
 ## Funcionalidades previstas
 
-- 📦 **Gestión de productos:** crear, consultar, modificar y desactivar productos.
-- 🏭 **Gestión de sectores:** organizar los productos por sectores.
-- 📝 **Conteos de inventario:** registrar cantidades físicas y compararlas con el stock del sistema.
-- 📊 **Dashboard:** visualizar indicadores generales y diferencias de inventario.
-- 🔎 **Historial:** consultar conteos anteriores y analizar diferencias.
-- 🔐 **Autenticación:** acceso mediante usuarios registrados.
-- 📁 **Importación de Excel:** cargar inventarios de forma masiva (fase futura).
-- 📈 **Reportes:** analizar la evolución de los inventarios (fase futura).
+- **Gestión de productos:** crear, consultar, modificar y desactivar productos.
+- **Gestión de sectores:** organizar los productos por sectores.
+- **Conteos de inventario:** registrar cantidades físicas y compararlas con el stock del sistema.
+- **Dashboard:** visualizar indicadores generales y diferencias de inventario.
+- **Historial:** consultar conteos anteriores y analizar diferencias.
+- **Autenticación:** acceso mediante usuarios registrados.
+- **Importación de Excel:** cargar inventarios de forma masiva (fase futura).
+- **Reportes:** analizar la evolución de los inventarios (fase futura).
 
 ## Tecnologías
 
